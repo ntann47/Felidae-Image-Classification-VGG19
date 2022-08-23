@@ -1,0 +1,36 @@
+html{
+  margin: 0;
+  padding: 0;
+}
+h1{
+text-align: center; 
+color: darkgray;
+}
+h2{
+text-align: center;
+color: #FFF;
+}
+.name{
+margin-bottom: 20px!important;
+}
+.btn{
+margin-top: 50px !important;
+margin-bottom: 50px !important;
+}
+.app{
+  width: 750px;
+  height: 800px;
+  padding-top: 10px;
+  margin:auto;
+  background-image: url(../images/bg.jpg);
+  background-position: center;
+  background-size:  cover;
+  overflow: hidden;
+}
+.img{
+width: auto;
+height: 300px;
+display: block;
+margin: 20px auto;
+}
+
